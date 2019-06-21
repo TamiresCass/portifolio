@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "TamiresCass.github.io/portifolio/static/css/main.b5a97272.chunk.css",
-    "main.js": "TamiresCass.github.io/portifolio/static/js/main.6e6c3614.chunk.js",
-    "main.js.map": "TamiresCass.github.io/portifolio/static/js/main.6e6c3614.chunk.js.map",
-    "runtime~main.js": "TamiresCass.github.io/portifolio/static/js/runtime~main.924f0435.js",
-    "runtime~main.js.map": "TamiresCass.github.io/portifolio/static/js/runtime~main.924f0435.js.map",
-    "static/css/2.04aae6c4.chunk.css": "TamiresCass.github.io/portifolio/static/css/2.04aae6c4.chunk.css",
-    "static/js/2.b06253a0.chunk.js": "TamiresCass.github.io/portifolio/static/js/2.b06253a0.chunk.js",
-    "static/js/2.b06253a0.chunk.js.map": "TamiresCass.github.io/portifolio/static/js/2.b06253a0.chunk.js.map",
-    "index.html": "TamiresCass.github.io/portifolio/index.html",
-    "precache-manifest.a17a5abf13d6cb8e2f2eb74b5553ae3f.js": "TamiresCass.github.io/portifolio/precache-manifest.a17a5abf13d6cb8e2f2eb74b5553ae3f.js",
-    "service-worker.js": "TamiresCass.github.io/portifolio/service-worker.js",
-    "static/css/2.04aae6c4.chunk.css.map": "TamiresCass.github.io/portifolio/static/css/2.04aae6c4.chunk.css.map",
-    "static/css/main.b5a97272.chunk.css.map": "TamiresCass.github.io/portifolio/static/css/main.b5a97272.chunk.css.map",
-    "static/media/cv.pdf": "TamiresCass.github.io/portifolio/static/media/cv.4373b670.pdf",
-    "static/media/foto.jpg": "TamiresCass.github.io/portifolio/static/media/foto.4b6915a4.jpg"
+    "main.css": "/portifolio/static/css/main.b5a97272.chunk.css",
+    "main.js": "/portifolio/static/js/main.1031f81b.chunk.js",
+    "main.js.map": "/portifolio/static/js/main.1031f81b.chunk.js.map",
+    "runtime~main.js": "/portifolio/static/js/runtime~main.e9cc7322.js",
+    "runtime~main.js.map": "/portifolio/static/js/runtime~main.e9cc7322.js.map",
+    "static/css/2.04aae6c4.chunk.css": "/portifolio/static/css/2.04aae6c4.chunk.css",
+    "static/js/2.b06253a0.chunk.js": "/portifolio/static/js/2.b06253a0.chunk.js",
+    "static/js/2.b06253a0.chunk.js.map": "/portifolio/static/js/2.b06253a0.chunk.js.map",
+    "index.html": "/portifolio/index.html",
+    "precache-manifest.15fc8c670006e6a0cd09a2bf5fe7d9ee.js": "/portifolio/precache-manifest.15fc8c670006e6a0cd09a2bf5fe7d9ee.js",
+    "service-worker.js": "/portifolio/service-worker.js",
+    "static/css/2.04aae6c4.chunk.css.map": "/portifolio/static/css/2.04aae6c4.chunk.css.map",
+    "static/css/main.b5a97272.chunk.css.map": "/portifolio/static/css/main.b5a97272.chunk.css.map",
+    "static/media/cv.pdf": "/portifolio/static/media/cv.4373b670.pdf",
+    "static/media/foto.jpg": "/portifolio/static/media/foto.4b6915a4.jpg"
   }
 }
